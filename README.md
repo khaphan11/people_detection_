@@ -8,6 +8,7 @@ Type: Computer Vision
 Programming Language: Python
 
 Libraries:
+- PyTorch
 - cv2
 - Person_remover
 
