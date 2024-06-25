@@ -1,0 +1,7 @@
+absl_py==2.1.0
+matplotlib==3.8.2
+numpy==1.26.4
+opencv_python==4.9.0.80
+opencv_python_headless==4.9.0.80
+rembg==2.0.56
+tensorflow==2.8.2

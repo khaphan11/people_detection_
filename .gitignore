@@ -1,0 +1,6 @@
+*.jpg
+Person_remover
+*.h5
+*.weights
+*.cfg
+*.ipynb
